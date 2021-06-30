@@ -17,3 +17,6 @@ console.log (massage)
 alert("You deserve it :) ")
 
 if (massage != null){document.write("<h4>" + massage + "</h4>")}
+function myFunction() {
+  confirm("Goodbye! Don't forget the Massage ;) ");
+}
