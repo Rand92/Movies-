@@ -18,3 +18,10 @@ header{
 a{
       text-decoration: none
     }
+    body {
+      padding: 50px
+    }
+  div {
+     background-color: peachpuff
+   }
+  
