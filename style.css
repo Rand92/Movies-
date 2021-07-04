@@ -4,7 +4,7 @@ header{
 /* Hex Code RGB */
 
 .color{
-      color: #800000
+      color: #800000 ;
     }
      header ul li{
       display: inline-block;
@@ -16,12 +16,12 @@ header{
   color: rgb(165,42,42);
 }
 a{
-      text-decoration: none
+      text-decoration: none ;
     }
     body {
-      padding: 50px
-    }
+      padding: 50px ;
+    } 
   div {
-     background-color: peachpuff
+     background-color: peachpuff ;
    }
   

@@ -46,8 +46,3 @@ for (var i = 0; i < R ; i++)  {
   function myFunction() {
     confirm("Goodbye! Don't forget the Massage ;) ");
   }
-
-if (massage != null){document.write("<h4>" + massage + "</h4>")}
-function myFunction() {
-  confirm("Goodbye! Don't forget the Massage ;) ");
-}
